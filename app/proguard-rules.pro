@@ -1,0 +1,2 @@
+-keep class com.focusflame.** { *; }
+-keep class androidx.** { *; }
